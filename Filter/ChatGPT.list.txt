@@ -1,2 +1,2 @@
 # > ChatGPT
-DOMAIN-KEYWORD,.openai.com.,ChatGPT
+DOMAIN-KEYWORD,openai.com,ChatGPT
